@@ -1,41 +1,52 @@
-GDD de 1 página     
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# 🏹 Jogo de Plataforma 2D - Caça Indígena
 
-Rascunho de conceito:
+Este projeto é um **rascunho de conceito** de um jogo desenvolvido para PC, com arte em pixel 2D, utilizando a engine **Unity 2D**. O jogador controla um índio que precisa caçar aves para acumular pontos e subir no ranking, enfrentando desafios crescentes até a batalha final contra um chefão.
 
+---
 
+## 🎯 Descrição e Objetivo
 
+Jogo **plataforma 2D**, onde o **personagem principal é um indígena**. Seu objetivo é caçar pássaros com uma lança para conquistar pontos, subir no ranking e, ao final, enfrentar um poderoso chefe que tentará impedir sua vitória.
 
-Nome: 
+---
 
+## 👥 Público-Alvo
 
-Descrição e objetivo:
-Jogo do tipo de plataforma 2D, onde um indígena que é o personagem principal caça pássaros para adquirir pontos para ser o melhor do Rank o melhor jogador até chegar na fase final onde o chefão do game tenta dar o golpe final.
+- Homens e mulheres de **todas as idades**
+- Jogadores que gostam de jogos de plataforma e desafios progressivos com mecânica simples
 
-Público Alvo:
-Homens e mulheres de todas as idades.
+---
 
-Mecânica do jogo:
-  Personagem Principal 
-- Atira Lança para coletar pontos acertando aves neutras.
-- Luta contra Boss.
+## 🕹️ Mecânicas de Jogo
 
+- **Ataque com Lança**: o jogador lança lanças em aves para acumular pontos
+- **Luta com Boss**: fase final com chefão
+- **Progressão de Pontos e Dificuldade**: acertar alvos exige precisão e timing
 
-Características:
-- Será um jogo Single Player exclusivo PC.
-- Será Art Pixel 2D.
-- Será utilizada a engine  UNITY 2D.
+---
 
+## 🔧 Características Técnicas
 
-Proposta única de vendas:
-O jogo usa uma temática de plataforma, simulando um índio que está faminto, com uma mecânica simples e divertida, exigindo o jogador descobrir o tempo dos alvos adquirindo experiência e pontos.
-Homens e mulheres de todas as idades.
+- 🎮 Plataforma: **PC**
+- 🧍‍♂️ Modo de Jogo: **Single Player**
+- 🎨 Estilo Visual: **Pixel Art 2D**
+- 🛠️ Engine: **Unity 2D**
 
+---
 
+## 🌿 Tema e Ambientação
 
+### 🎮 Cenários
+1. **Floresta** – onde a aventura começa
+2. **Rio** – fase de transição mais desafiadora
 
-Tema e Ambientação:
-- Cenários
-1º Floresta
-2º Rio
-- O Personagem principal será um índio.
+### 👤 Personagem Principal
+- Um índio caçador com habilidades de lançar lanças
+- Design baseado em estética pixel art tradicional
+
+---
+
+## ✍️ Autor
+
+Desenvolvido por Pedro Moraes 
+Para fins de estudo e desenvolvimento de projeto em Unity.
