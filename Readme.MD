@@ -1,4 +1,4 @@
-# 🏹 Jogo de Plataforma 2D - Caça Indígena
+# 🏹 Jogo de Plataforma 2D - Índio que precisa caçar aves
 
 Este projeto é um **rascunho de conceito** de um jogo desenvolvido para PC, com arte em pixel 2D, utilizando a engine **Unity 2D**. O jogador controla um índio que precisa caçar aves para acumular pontos e subir no ranking, enfrentando desafios crescentes até a batalha final contra um chefão.
 
